@@ -1,9 +1,4 @@
-<div align="center"> 
-<img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="100" align="center"/>  
-
-  
-##   About me
-  Full-stack .NET developer proficient in front-end and back-end technologies. Experienced in C#, ASP.NET, MSSQL, JavaScript, and modern frameworks. Committed to delivering robust and user-friendly web applications.  
+Full-stack .NET developer proficient in front-end and back-end technologies. Experienced in C#, ASP.NET, MSSQL, JavaScript, and modern frameworks. Committed to delivering robust and user-friendly web applications.  
   
 <br />
    
@@ -34,7 +29,6 @@
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dante2302&layout=donut)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-[![GitHub Streak](https://streak-stats.demolab.com?user=dante2302)](https://git.io/streak-stats)
 
 
 
