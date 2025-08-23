@@ -1,4 +1,4 @@
-Full-stack .NET developer proficient in front-end and back-end technologies. Experienced in C#, ASP.NET, MSSQL, JavaScript, and modern frameworks. Committed to delivering robust and user-friendly web applications.  
+I like .NET, i like Typescript
   
 <br />
    
