@@ -26,9 +26,5 @@ I like .NET, i like Typescript
 
 <br />
 
-## Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dante2302&layout=donut)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-
 
 
