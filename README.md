@@ -4,9 +4,6 @@ I like .NET, TypeScript and Go
    
 ## Technologies & Tools
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="65" /> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="65" /> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="65"/> &nbsp;
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="65"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="65" /> &nbsp;
