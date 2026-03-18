@@ -1,4 +1,3 @@
-I like .NET, TypeScript and Go
   
 <br />
    
